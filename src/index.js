@@ -1,0 +1,1 @@
+import "another-module/dist/felix.svg";
